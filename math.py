@@ -17,4 +17,4 @@ def Division():
 
 #rectangle implementation
 def rect(x,y):
-    pass
+    return 2(x+y)
