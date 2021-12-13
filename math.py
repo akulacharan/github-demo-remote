@@ -12,7 +12,7 @@ def Multiply(x,y):
 
 #division Implementation
 def Division():
-    pass
+    return x//y
     
 
 #rectangle implementation
