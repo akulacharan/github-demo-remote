@@ -15,8 +15,6 @@ def Division():
     pass
     
 
-Alekhya
-
-#square implementation
-def square(x):
+#rectangle implementation
+def rect(x,y):
     pass
