@@ -13,7 +13,10 @@ def Multiply(x,y):
 #division Implementation
 def Division():
     pass
-    
+
+#circle implementation
+def circle():
+    pass
 
 #rectangle implementation
 def rect(x,y):
